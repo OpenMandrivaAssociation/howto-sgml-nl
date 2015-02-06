@@ -3,7 +3,7 @@
 Summary:	HOWTO documents (sgml format) from the Linux Documentation Project
 Name:		howto-sgml-nl
 Version:	2006
-Release:	7
+Release:	8
 License:	GPLv2+
 Group:		Books/Howtos
 Source0:	howto-sgml-nl.tar.bz2
