@@ -7,7 +7,7 @@ Release:	8
 License:	GPLv2+
 Group:		Books/Howtos
 Source0:	howto-sgml-nl.tar.bz2
-Url:		http://www.linuxdoc.org/docs.html#howto
+Url:		https://www.linuxdoc.org/docs.html#howto
 BuildRequires:	howto-utils
 Requires:	howto-utils
 Requires:	locales-nl
